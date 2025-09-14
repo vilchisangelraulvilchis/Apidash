@@ -1,7 +1,7 @@
 # API Dash ⚡️
 
 
-### 🚨🚨 API Dash is participating in GSoC 2025! Check out the details below:
+### 🚨🚨 API Dash is participating in GSoC 2025! Check out the details below:-
 
 <img src="https://github.com/foss42/apidash/assets/615622/493ce57f-06c3-4789-b7ae-9fa63bca8183" alt="GSoC" width="500">
 
