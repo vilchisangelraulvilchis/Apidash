@@ -1,6 +1,5 @@
 # API Dash ⚡️
 
-[![Discord Server Invite](https://img.shields.io/badge/DISCORD-JOIN%20SERVER-5663F7?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/bBeSdtJ6Ue)
 
 ### 🚨🚨 API Dash is participating in GSoC 2025! Check out the details below:
 
